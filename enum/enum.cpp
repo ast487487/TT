@@ -14,14 +14,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	fruit a = apple;
 	*/
     
-	
-	
-	
-	
-	
-	
-	
-	
+
 	
 	
 	//or
