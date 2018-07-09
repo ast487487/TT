@@ -13,7 +13,17 @@ int _tmain(int argc, _TCHAR* argv[])
 	}fruit;
 	fruit a = apple;
 	*/
-
+    
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	//or
 	
 	/*
