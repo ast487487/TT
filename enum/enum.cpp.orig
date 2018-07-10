@@ -1,6 +1,12 @@
 // enum.cpp : Defines the entry point for the console application.
 //
+<<<<<<< HEAD
+=======
 
+
+
+
+>>>>>>> master
 #include "stdafx.h"
 #include <iostream>
 using namespace std;
@@ -16,6 +22,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	*/
     
 <<<<<<< HEAD
+
 =======
 	
 	
@@ -75,3 +82,4 @@ int _tmain(int argc, _TCHAR* argv[])
 	//v4
 	return 0;
 }
+
